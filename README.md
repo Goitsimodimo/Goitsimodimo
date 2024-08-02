@@ -21,7 +21,7 @@ Hi there! I'm an aspiring data scientist with a strong background in Mathematics
 
 ## Get in Touch
 
-- **Email**: [Your Email](goitsimodimomadue@gmail.com)
+- **Email**: [Your Email](mailto:goitsimodimomadue@gmail.com)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/goitsimodimo-madue-b7174a21a)
 
 Feel free to explore my repositories and connect with me for collaborations!
